@@ -5,7 +5,7 @@ This document entails the privacy policy and agreement that you accept when addi
 
 ### Bots, Services, and Servers
 The following is a list of bots to which this privacy policy applies.
-* **Tool-Giveaway-Bot | System**#1929 (953434413239263252)
+* **Giveaway-Bot | System**#1929 (953434413239263252)
 * **Tool-Bot | System**#6312 (942547352617623662)
 
 
@@ -27,6 +27,8 @@ This privacy policy also applies to all of these sites and subdomains of these s
 ### Data Collected By Command
 The following items may be collected and stored when intentionally provided by a user (usually by means of a command). This data will not be collected automatically. When providing data in this way, you forego any rights to the content of the data provided.
 * Channel ID
+* Message ID
+* Server ID
 * Event-organization data (contests, giveaways)
 
 
