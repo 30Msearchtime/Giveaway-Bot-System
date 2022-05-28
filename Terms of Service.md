@@ -17,7 +17,7 @@ To use Giveaway-Bot | System, you must:
   - Invite Giveaway-Bot | System in too many servers owned by you, in order to manipulate its server count
   - Manipulate or try to manipulate Giveaway-Bot | System in order to harm it
   - attack or harm Giveaway-Bot | System
-  - Advertise Giveaway-Bot | System as your bot
+  - Advertise Giveaway-Bot | System as your bot. 
  We also require you to use Giveaway-Bot | System Bot for general purposes.
  
  ## Validaty
